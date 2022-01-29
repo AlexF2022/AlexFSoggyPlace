@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Fire" ID="{28800BA4-9A59-420D-9A36-10FB81DCB2EC}">
+					<ChildrenList>
+						<Action Name="" ID="{573D713F-FF23-4359-B110-608D92849C17}" ShortID="985910618">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FireFireplace" ID="{00E08218-703C-430F-B0E2-54F3B26CA29E}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Alarm" ID="{832A023A-ED6D-4630-AF74-99FF26A97CDA}">
+					<ChildrenList>
+						<Action Name="" ID="{780BDDA6-FC75-4F94-B784-AB9F8143432C}" ShortID="1021152960">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AlarmFire 6044_10" ID="{9C30DE64-F560-4231-8576-C18C669CB9ED}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Barn" ID="{6D3D0AB1-69CC-425E-A4EE-AD3BCDB9321E}">
+					<ChildrenList>
+						<Action Name="" ID="{189641D4-F99D-44AC-984C-7CEE9FEDDA9A}" ShortID="839464895">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wood Barn" ID="{031BE0C5-3BE8-419B-92F1-CC3FD797E71B}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Nature_Ambience" ID="{CC06B9D7-17AB-4BD7-BCA5-467D27644980}">
+					<ChildrenList>
+						<Action Name="" ID="{9C413754-1187-4DAF-AAA1-39D7A14B5456}" ShortID="336087662">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="felix_blume_nature_water_brook_close_up" ID="{88003D4B-4D8E-490B-B270-99F2D6A44E15}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A931B5D6-ABFF-4667-9723-2D14F7B2B3FE}" ShortID="232486929">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Morning Birds" ID="{4E713FF0-BC21-4395-A97F-87F5F55BF6FA}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_FireFireplace01" ID="{A6EDBD41-7838-4C67-A15E-CB13EDC10BE8}">
+					<ChildrenList>
+						<Action Name="" ID="{E1A32C59-FBB5-4530-96D7-C5914A63343E}" ShortID="99618104">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FireFireplace_01" ID="{BA071786-D12D-48B6-9FCF-A9BFAEAC6819}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Windchimes" ID="{620D1B00-C5BB-41D4-A6A7-C130CAE216A5}">
+					<ChildrenList>
+						<Action Name="" ID="{65399329-2850-40FF-9433-B5BF6372E49B}" ShortID="560162004">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MX_Chimes, Wind_PE19_40_01" ID="{5370CD7B-644B-4ADA-82F7-1E075FAF2231}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_House1" ID="{0600848B-32F2-48E2-848C-FBAFF5E358AF}">
+					<ChildrenList>
+						<Action Name="" ID="{0C39D329-5DD9-44E8-AACC-991485C1B0FB}" ShortID="106647820">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="A Vezzo A Vivere" ID="{E6E9D655-78A6-4B20-A2DC-F3BF003C919C}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Shrek" ID="{2CE92D1F-2444-4229-BDE8-DD313D6080B2}">
+					<ChildrenList>
+						<Action Name="" ID="{2ADFB762-65D9-407B-A1F8-F0438AAB7854}" ShortID="350504009">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="yt5s_com-What Are You Doing In My Swamp - Sound Effect (HD)" ID="{AE7DA884-6E80-4E40-9AF0-8D649DB05B03}" WorkUnitID="{8636E980-29E1-4AE5-8B60-8CF3CEDA897F}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

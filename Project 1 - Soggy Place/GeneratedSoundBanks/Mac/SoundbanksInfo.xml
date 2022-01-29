@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="643526718" Language="SFX">
+			<ShortName>zapsplat_foley_wood_squeak_creak_004.wav</ShortName>
+			<Path>SFX\zapsplat_foley_wood_squeak_creak_004_10C4C929.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2660020874">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="3103178154">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="603937113" Name="Play_Alarm" ObjectPath="\Events\Default Work Unit\Play_Alarm" DurationType="OneShot" DurationMin="37.072201" DurationMax="37.072201">
+					<IncludedMemoryFiles>
+						<File Id="261723569" Language="SFX">
+							<ShortName>AlarmFire 6044_10.wav</ShortName>
+							<Path>SFX\AlarmFire 6044_10_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1577305889" Name="Play_Barn" ObjectPath="\Events\Default Work Unit\Play_Barn" MaxAttenuation="20.000000" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="643526718" Language="SFX">
+							<ShortName>zapsplat_foley_wood_squeak_creak_004.wav</ShortName>
+							<Path>SFX\zapsplat_foley_wood_squeak_creak_004_10C4C929.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+					<IncludedMemoryFiles>
+						<File Id="101531482" Language="SFX">
+							<ShortName>zapsplat_foley_wood_squeak_creak_001.wav</ShortName>
+							<Path>SFX\zapsplat_foley_wood_squeak_creak_001_911A03CE.wem</Path>
+						</File>
+						<File Id="389510478" Language="SFX">
+							<ShortName>zapsplat_foley_wood_squeak_creak_002.wav</ShortName>
+							<Path>SFX\zapsplat_foley_wood_squeak_creak_002_32C47DDC.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3015324718" Name="Play_Fire" ObjectPath="\Events\Default Work Unit\Play_Fire" MaxAttenuation="20.000000" DurationType="OneShot" DurationMin="90.139862" DurationMax="90.139862">
+					<IncludedMemoryFiles>
+						<File Id="513164012" Language="SFX">
+							<ShortName>FireFireplace 6015_06.wav</ShortName>
+							<Path>SFX\FireFireplace 6015_06_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4069430882" Name="Play_FireFireplace01" ObjectPath="\Events\Default Work Unit\Play_FireFireplace01" MaxAttenuation="20.000000" DurationType="OneShot" DurationMin="84.563263" DurationMax="84.563263">
+					<IncludedMemoryFiles>
+						<File Id="1036628604" Language="SFX">
+							<ShortName>FireFireplace 6015_06.wav</ShortName>
+							<Path>SFX\FireFireplace 6015_06_8B32F5F1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4214932215" Name="Play_House1" ObjectPath="\Events\Default Work Unit\Play_House1" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="234409606" Language="SFX">
+							<ShortName>Avezzo a Vivere Track.wav</ShortName>
+							<Path>SFX\Avezzo a Vivere Track_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3128628778" Name="Play_Nature_Ambience" ObjectPath="\Events\Default Work Unit\Play_Nature_Ambience" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="267338257" Language="SFX">
+							<ShortName>felix_blume_nature_water_brook_close_up.wav</ShortName>
+							<Path>SFX\felix_blume_nature_water_brook_close_up_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1042198615" Language="SFX">
+							<ShortName>Morning Birds.wav</ShortName>
+							<Path>SFX\Morning Birds_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2470770091" Name="Play_Shrek" ObjectPath="\Events\Default Work Unit\Play_Shrek" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="349993136" Language="SFX">
+							<ShortName>yt5s.com-What Are You Doing In My Swamp - Sound Effect (HD).wav</ShortName>
+							<Path>SFX\yt5s.com-What Are You Doing In My Swamp - Sound Effect (HD)_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2917879851" Name="Play_Windchimes" ObjectPath="\Events\Default Work Unit\Play_Windchimes" MaxAttenuation="20.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="789662290" Language="SFX">
+							<ShortName>MX_Chimes, Wind_PE19_40_01.wav</ShortName>
+							<Path>SFX\MX_Chimes, Wind_PE19_40_01_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

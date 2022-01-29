@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	603937113	Play_Alarm			\Default Work Unit\Play_Alarm	
+	1577305889	Play_Barn			\Default Work Unit\Play_Barn	
+	2470770091	Play_Shrek			\Default Work Unit\Play_Shrek	
+	2917879851	Play_Windchimes			\Default Work Unit\Play_Windchimes	
+	3015324718	Play_Fire			\Default Work Unit\Play_Fire	
+	3128628778	Play_Nature_Ambience			\Default Work Unit\Play_Nature_Ambience	
+	4069430882	Play_FireFireplace01			\Default Work Unit\Play_FireFireplace01	
+	4214932215	Play_House1			\Default Work Unit\Play_House1	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	101531482	zapsplat_foley_wood_squeak_creak_001	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\zapsplat_foley_wood_squeak_creak_001_911A03CE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wood Barn\zapsplat_foley_wood_squeak_creak_001		208844
+	234409606	A Vezzo A Vivere	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\Avezzo a Vivere Track_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\House #1\A Vezzo A Vivere		7630912
+	261723569	AlarmFire 6044_10	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\AlarmFire 6044_10_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lighthouse\AlarmFire 6044_10		6363200
+	267338257	felix_blume_nature_water_brook_close_up	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\felix_blume_nature_water_brook_close_up_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Nature\felix_blume_nature_water_brook_close_up		13295984
+	349993136	yt5s_com-What Are You Doing In My Swamp - Sound Effect (HD)	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\yt5s.com-What Are You Doing In My Swamp - Sound Effect (HD)_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shrek Outhouse\yt5s_com-What Are You Doing In My Swamp - Sound Effect (HD)		770112
+	389510478	zapsplat_foley_wood_squeak_creak_002	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\zapsplat_foley_wood_squeak_creak_002_32C47DDC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wood Barn\zapsplat_foley_wood_squeak_creak_002		64080
+	513164012	FireFireplace	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\FireFireplace 6015_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire\FireFireplace		15900736
+	789662290	MX_Chimes, Wind_PE19_40_01	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\MX_Chimes, Wind_PE19_40_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\House #1\MX_Chimes, Wind_PE19_40_01		8028224
+	1036628604	FireFireplace_01	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\FireFireplace 6015_06_8B32F5F1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fire\FireFireplace_01		14917024
+	1042198615	Morning Birds	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\Morning Birds_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Nature\Morning Birds		31817792
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	643526718	zapsplat_foley_wood_squeak_creak_004	C:\Users\ofaka\Desktop\Grad Sound\GameAudio-Project1-SoggyPlace\Project 1 - Soggy Place\.cache\Mac\SFX\zapsplat_foley_wood_squeak_creak_004_10C4C929.wem	643526718.wem	\Actor-Mixer Hierarchy\Default Work Unit\Wood Barn\zapsplat_foley_wood_squeak_creak_004	
+

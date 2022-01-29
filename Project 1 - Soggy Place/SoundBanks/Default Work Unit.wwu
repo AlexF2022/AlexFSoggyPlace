@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7F8CBE5C-519D-4E1D-A0DC-E09D7C8F03E9}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{7F8CBE5C-519D-4E1D-A0DC-E09D7C8F03E9}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{5EF3437B-302B-4E64-925F-AE7DE7472424}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Windchimes" ID="{620D1B00-C5BB-41D4-A6A7-C130CAE216A5}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Fire" ID="{28800BA4-9A59-420D-9A36-10FB81DCB2EC}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Shrek" ID="{2CE92D1F-2444-4229-BDE8-DD313D6080B2}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Barn" ID="{6D3D0AB1-69CC-425E-A4EE-AD3BCDB9321E}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Alarm" ID="{832A023A-ED6D-4630-AF74-99FF26A97CDA}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_House1" ID="{0600848B-32F2-48E2-848C-FBAFF5E358AF}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Nature_Ambience" ID="{CC06B9D7-17AB-4BD7-BCA5-467D27644980}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FireFireplace01" ID="{A6EDBD41-7838-4C67-A15E-CB13EDC10BE8}" WorkUnitID="{446F1B44-1DB8-4FE2-A3FC-F328AD66E17C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

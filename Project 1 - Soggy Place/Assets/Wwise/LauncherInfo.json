@@ -1,0 +1,44 @@
+{
+    "originalSdkFolder": "C:\\Users\\ofaka\\Desktop\\Grad Sound\\GameAudio-Project1-SoggyPlace\\Project 1 - Soggy Place",
+    "currentVersion": {
+        "build": 2277,
+        "major": 1,
+        "minor": 5,
+        "nickname": "",
+        "year": 2021
+    },
+    "installedBundleGroups": [
+        {
+            "id": "Packages",
+            "valueId": "Unity"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Extensions"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Mac"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Windows"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Unity"
+        },
+        {
+            "id": "Packages",
+            "valueId": "Extensions"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Mac"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "Windows"
+        }
+    ]
+}
